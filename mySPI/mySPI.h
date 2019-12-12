@@ -1,9 +1,4 @@
-/*
- * mySPI.h
- *
- *  Created on: Oct 10, 2019
- *      Author: Andi
- */
+
 
 #ifndef MYSPI_MYSPI_H_
 #define MYSPI_MYSPI_H_
