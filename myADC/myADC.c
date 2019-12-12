@@ -1,9 +1,4 @@
-/*
- * myADC.c
- *
- *  Created on: Oct 10, 2019
- *      Author: Andi
- */
+
 #include "myADC.h"
 uint8_t temp1, temp2;
 void myADC_init(void){
