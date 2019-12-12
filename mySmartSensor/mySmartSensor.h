@@ -1,9 +1,4 @@
-/*
- * mySmartSensor.h
- *
- *  Created on: Dec 11, 2019
- *      Author: Andi
- */
+
 
 #ifndef MYSMARTSENSOR_MYSMARTSENSOR_H_
 #define MYSMARTSENSOR_MYSMARTSENSOR_H_
