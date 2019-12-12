@@ -1,9 +1,4 @@
-/*
- * myUART.h
- *
- *  Created on: Oct 10, 2019
- *      Author: Andi
- */
+
 
 #ifndef MYUART_MYUART_H_
 #define MYUART_MYUART_H_
