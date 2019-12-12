@@ -1,9 +1,3 @@
-/*
- * mySPI.c
- *
- *  Created on: Oct 10, 2019
- *      Author: Andi
- */
 
 #include <avr/io.h>
 #include "mySPI.h"
