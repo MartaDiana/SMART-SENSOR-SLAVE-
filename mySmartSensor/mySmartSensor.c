@@ -1,9 +1,3 @@
-/*
- * mySmartSensor.c
- *
- *  Created on: Dec 11, 2019
- *      Author: Andi
- */
 
 #include "mySmartSensor.h"
 
