@@ -1,9 +1,3 @@
-/*
- * myADC.h
- *
- *  Created on: Oct 10, 2019
- *      Author: Andi
- */
 
 #ifndef MYADC_MYADC_H_
 #define MYADC_MYADC_H_
